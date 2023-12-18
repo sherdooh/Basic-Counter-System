@@ -17,3 +17,7 @@ function save() {
     countVal.textContent = 0
      
 }
+
+function reset() {
+    countVal.textContent = 0
+}
